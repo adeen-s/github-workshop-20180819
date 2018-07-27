@@ -1,3 +1,3 @@
 Get the slides at
 
-[https://adeen.me/github-workshop-20180812/](https://adeen.me/github-workshop-20180812/)
+[bit.ly/gdg-gh-workshop](http://bit.ly/gdg-gh-workshop)
