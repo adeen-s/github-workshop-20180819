@@ -1,3 +1,3 @@
 Get the slides at
 
-[git.glfmn.io/github-workshop](https://git.glfmn.io/github-workshop)
+[https://adeen.me/github-workshop-20180812/](https://adeen.me/github-workshop-20180812/)
