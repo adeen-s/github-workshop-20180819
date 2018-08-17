@@ -1,3 +1,4 @@
-**[Feedback]?**
+**[Feedback]**
 
-[Feedback]: https://github.com/glfmn/github-workshop/issues/3
+Please provide your feedback for this workshop here:
+<br />

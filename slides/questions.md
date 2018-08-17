@@ -1,7 +1,9 @@
-**Questions?**
+### Questions?
 
-<img height="300px" alt="Gwen's profile picture" src="img/png/profile.png"/>
+@[adeen-s] on **GitHub**
+<br/>
+[adeen.me](https://adeen.me/)
+<br />
+[adeen@adeen.me](mailto:adeen@adeen.me)
 
-<small>@[glfmn] on **GitHub**</small>
-
-[glfmn]: https://GitHub.com/glfmn
+[adeen-s]: https://GitHub.com/adeen-s
