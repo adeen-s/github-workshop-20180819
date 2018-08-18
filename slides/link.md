@@ -1,3 +1,3 @@
 Get the slides at
 
-[bit.ly/gdg-gh-workshop](http://bit.ly/gdg-gh-workshop)
+[bit.ly/gdg-workshop-github](http://bit.ly/gdg-workshop-github)
